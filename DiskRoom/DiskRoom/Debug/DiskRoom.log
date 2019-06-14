@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+d:\c++ projects\diskroom\diskroom\jugador.h(39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\c++ projects\diskroom\diskroom\jugador.h(40): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\c++ projects\diskroom\diskroom\jugador.h(41): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\c++ projects\diskroom\diskroom\jugador.h(42): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\c++ projects\diskroom\diskroom\jugador.h(48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\c++ projects\diskroom\diskroom\mapa.h(19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\c++ projects\diskroom\diskroom\juego.h(83): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\diskroom\diskroom\juego.h(105): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\diskroom\diskroom\juego.h(123): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\diskroom\diskroom\juego.h(144): warning C4018: '<': signed/unsigned mismatch
+d:\c++ projects\diskroom\diskroom\myform.cpp(9): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  DiskRoom.vcxproj -> D:\C++ Projects\DiskRoom\Debug\DiskRoom.exe
